@@ -20,7 +20,7 @@ var IUniswapV2Pair = _interopDefault(require('@uniswap/v2-core/build/IUniswapV2P
 var _SOLIDITY_TYPE_MAXIMA;
 
 (function (ChainId) {
-  ChainId[ChainId["MAINNET"] = 43114] = "MAINNET";
+  ChainId[ChainId["MAINNET"] = 1088] = "MAINNET";
   ChainId[ChainId["ROPSTEN"] = 43113] = "ROPSTEN";
 })(exports.ChainId || (exports.ChainId = {}));
 
