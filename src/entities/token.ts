@@ -61,14 +61,14 @@ export const WETH = {
     ChainId.MAINNET,
     '0xc676516F9fFD816a13D4a763b13BC0385A3d6567',
     18,
-    'WAVAX',
-    'Wrapped AVAX'
+    'WMETIS',
+    'Wrapped Metis'
   ),
   [ChainId.ROPSTEN]: new Token(
     ChainId.ROPSTEN,
-    '0xc676516F9fFD816a13D4a763b13BC0385A3d6567',
+    '0x75cb093E4D61d2A2e65D8e0BBb01DE8d89b53481',
     18,
-    'WAVAX',
-    'Wrapped AVAX'
+    'WMETIS',
+    'Wrapped Metis'
   )
 }
